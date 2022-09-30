@@ -33,6 +33,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Wilson Le](https://github.com/WilsonLe)
 - [Jian Sun](https://github.com/zjiansun)
+- [Decent Learner](https://github.com/decentlearner)
 - [Lingeshwaran](https://github.com/lingeshwaran05)
 - [Loick Tian](https://github.com/loickengit)
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
